@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 1rem;
+}
+.answer{
+  font-size:1.5rem;
+  font-weight:500;
+}
+.btn{
+  display: flex;
+  gap:1rem;
+}
+
